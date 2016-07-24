@@ -1,0 +1,4 @@
+- Run "npm install"
+- Run your server with "npm run dev"
+- Put your code in your /src/js/client.js file! (import components there)
+- Be happy!
